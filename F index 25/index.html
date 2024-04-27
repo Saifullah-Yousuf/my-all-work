@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="main">
+        <div class="row01">
+            <input readonly class="row1-inp" id="inpuut" type="text">
+        </div>
+        <div>
+            <button class="btn-box btns-col" onclick="num('%')">%</button>
+            <button class="btn-box btns-col" onclick="num('R')">R</button>
+            <button class="btn-box btns-col" onclick="oneDelete()">CE</button>
+            <button class="btn-box btn-col1" onclick="ALL()">C</button>
+        </div>
+        <div>
+            <button class="btn-box btns-cols" onclick="num(7)">7</button>
+            <button class="btn-box btns-cols" onclick="num(8)">8</button>
+            <button class="btn-box btns-cols" onclick="num(9)">9</button>
+            <button class="btn-box btn-col2" onclick="num('-')">-</button>
+        </div>
+        <div>
+            <button class="btn-box btns-cols" onclick="num(4)">4</button>
+            <button class="btn-box btns-cols" onclick="num(5)">5</button>
+            <button class="btn-box btns-cols" onclick="num(6)">6</button>
+            <button class="btn-box btn-col3" onclick="num('/')">/</button>
+        </div>
+        <div>
+            <button class=" btn-box btns-cols " onclick="num(1) ">1</button>
+            <button class="btn-box btns-cols " onclick="num(2) ">2</button>
+            <button class="btn-box btns-cols " onclick="num(3) ">3</button>
+            <button class="btn-box btn-col4 " onclick="num( 'x')">x</button>
+        </div>
+        <div>
+            <button class="btn-box btns-cols " onclick="num( '.') ">.</button>
+            <button class="btn-box btns-cols " onclick="num(0) ">0</button>
+            <button class="btn-box btns-col " onclick="result() ">=</button>
+            <button class="btn-box btn-col5 " onclick="num('+')">+</button>
+        </div>
+    </div>
+    <script src="app.js "></script>
+</body>
+
+</html>

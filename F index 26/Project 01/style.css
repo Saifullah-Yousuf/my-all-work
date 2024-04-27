@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20220510/pngtree-abstract-futuristic-technology-background-with-digital-number-timer-concept-and-countdown-image_1288351.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: end;
+    padding-right: 130px;
+    height: 641px;
+}
+
+.num{
+    border: 2px solid blue;
+    border-radius: 100px;
+    width: 50px;
+    height: 40px;
+    font-weight: 900;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 250px;
+    text-align: center;
+    display: inline-block;
+    color: white;
+}
+
+.buttons:hover{
+    border-color: black;
+    background: silver;
+    color: black;
+}
+
+.buttons{
+    border: 2px solid blue;
+    border-radius: 100px;
+    width: 80px;
+    height: 40px;   
+    margin: 19px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 900;
+    color: white;
+    background: black;
+}
+
+@media (max-width: 768px) {
+    .main{
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF01RGCLSBiBalkvu7VONMHc22CPH23-k1GA&s');
+    }
+}
+
+@media (min-width: 1200px) {
+    .main{
+        background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20220510/pngtree-abstract-futuristic-technology-background-with-digital-number-timer-concept-and-countdown-image_1288351.jpg');
+    }
+}

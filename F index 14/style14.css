@@ -1,0 +1,886 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+#mains {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+.main {
+    display: flex;
+    border: 2px solid black;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.img1 {
+    width: 200px;
+    height: 100px;
+    padding-left: 60px;
+    padding-top: 4px;
+}
+
+.ul00 {
+    margin-left: 300px;
+}
+
+.line {
+    display: inline-block;
+    color: white;
+    padding-left: 17px;
+}
+
+.ankar {
+    text-decoration: none;
+    color: white;
+}
+
+.span1 {
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.span020 {
+    border: none;
+    background-color: red;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+/* NAVBAR COMPLETE */
+
+.main1 {
+    border: 2px solid black;
+    background-color: black;
+}
+
+.extra {
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.img2 {
+    width: 100%;
+    height: 550px;
+    background-color: black;
+}
+
+
+/* IMAGE COMPLETE */
+
+.heading1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.para1 {
+    font-size: 20px;
+    color: silver;
+}
+
+
+/* CARD START */
+
+.main2 {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.card1 {
+    border: 2px solid black;
+    width: 250px;
+    height: 250px;
+}
+
+.divIMG1 {
+    width: 250px;
+    height: 150px;
+}
+
+.divIMG2 {
+    width: 250px;
+    height: 150px;
+}
+
+.divIMG3 {
+    width: 250px;
+    height: 150px;
+}
+
+.button1 {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 60px;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    border: 1px solid #221a1a;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+
+/* COMPLETE */
+
+.extramain {
+    flex-wrap: wrap;
+}
+
+.main3 {
+    border: 1px solid black;
+    flex-wrap: wrap;
+}
+
+.h3 {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+.span2 {
+    font-size: 40px;
+}
+
+.span3 {
+    font-size: 45px;
+}
+
+.para2 {
+    text-align: center;
+    color: silver;
+    font-size: 20px;
+}
+
+
+/* COMPLETE */
+
+.main4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.para3 {
+    color: red;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.h4 {
+    padding-left: 10px;
+    font-size: 35px;
+}
+
+.para4 {
+    padding-left: 10px;
+    font-size: 20px;
+    color: silver;
+}
+
+.main411 {
+    color: white;
+    border: 1px solid black;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    width: 550px;
+    height: 350px;
+}
+
+.button2 {
+    border: 1px solid #221a1a;
+    width: 150px;
+    height: 35px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border-radius: 16px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.para5 {
+    padding-left: 10px;
+}
+
+
+/* SECOND DIV */
+
+.main412 {
+    border: none;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width: 550px;
+    height: 350px;
+}
+
+.img3 {
+    width: 500px;
+    height: 350px;
+    padding-left: 25px;
+}
+
+
+/* SECOND DIV START */
+
+.main5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.main413 {
+    border: none;
+    width: 550px;
+    height: 350px;
+}
+
+.img4 {
+    width: 550px;
+    height: 350px;
+    padding-right: 25px;
+}
+
+
+/* DIV TWO START */
+
+.main414 {
+    color: white;
+    border: 1px solid black;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    width: 550px;
+    height: 350px;
+    padding-top: 50px;
+}
+
+.para6 {
+    color: red;
+    font-size: 20px;
+    padding-left: 25px;
+}
+
+.h5 {
+    padding-left: 25px;
+    font-size: 35px;
+}
+
+.para7 {
+    padding-left: 25px;
+    font-size: 20px;
+    color: silver;
+}
+
+.button3 {
+    border: 1px solid #221a1a;
+    width: 150px;
+    height: 35px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border-radius: 16px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+.para8 {
+    padding-left: 25px;
+}
+
+
+/* DIV THREE START */
+
+.main3 {
+    border: 1px solid black;
+    flex-wrap: wrap;
+}
+
+.h3 {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+.span2 {
+    font-size: 40px;
+}
+
+.span3 {
+    font-size: 45px;
+}
+
+.para2 {
+    text-align: center;
+    color: silver;
+    font-size: 20px;
+}
+
+
+/* COMPLETE */
+
+.main6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.para9 {
+    color: red;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.h6 {
+    padding-left: 10px;
+    font-size: 35px;
+}
+
+.para10 {
+    padding-left: 10px;
+    font-size: 20px;
+    color: silver;
+}
+
+.main415 {
+    color: white;
+    border: 1px solid black;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    width: 550px;
+    height: 350px;
+}
+
+.button4 {
+    border: 1px solid #221a1a;
+    width: 150px;
+    height: 35px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border-radius: 16px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.para11 {
+    padding-left: 10px;
+}
+
+
+/*DIV TWO START */
+
+.main416 {
+    border: none;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width: 550px;
+    height: 350px;
+}
+
+.img5 {
+    width: 500px;
+    height: 350px;
+    padding-left: 25px;
+}
+
+
+/* THIRD COMPLETE */
+
+
+/* CARD WORK START */
+
+.main001 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+}
+
+.para001 {
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+
+.span001 {
+    font-size: 40px;
+}
+
+.span002 {
+    font-size: 45px;
+}
+
+@media screen and (max-width: 499px) {
+    .main4 {
+        text-align: center;
+    }
+    .main5 {
+        text-align: center;
+    }
+    .main6 {
+        text-align: center;
+    }
+}
+
+
+/* CARD REALLY START */
+
+.main002 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px 15px;
+}
+
+.card001 {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 350px;
+    height: 475px;
+    padding-top: 20px;
+}
+
+.img001 {
+    width: 100%;
+    height: 250px;
+}
+
+.h001 {
+    color: white;
+    text-align: center;
+}
+
+.para002 {
+    color: red;
+    text-align: center;
+}
+
+.para003 {
+    color: silver;
+    text-align: center;
+}
+
+.button001 {
+    border: 1px solid #574141;
+    border-radius: 10px;
+    width: 120px;
+    height: 30px;
+    padding: 6px;
+    background-color: black;
+    color: white;
+}
+
+.para004 {
+    text-align: center;
+}
+
+
+/* COMPLTE */
+
+.main0003 {
+    padding-top: 25px;
+    border: 1px solid black;
+    flex-wrap: wrap;
+}
+
+.h0003 {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+.span0002 {
+    font-size: 40px;
+}
+
+.span0003 {
+    font-size: 45px;
+}
+
+.main000 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.img0004 {
+    width: 550px;
+    height: 350px;
+    padding-right: 25px;
+}
+
+.main0004 {
+    color: white;
+    border: 1px solid black;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    width: 550px;
+    height: 350px;
+    padding-top: 50px;
+}
+
+.para0006 {
+    color: red;
+    font-size: 20px;
+    padding-left: 25px;
+}
+
+.h0005 {
+    padding-left: 25px;
+    font-size: 35px;
+}
+
+.para0007 {
+    padding-left: 25px;
+    font-size: 20px;
+    color: silver;
+}
+
+.button0003 {
+    border: 1px solid #221a1a;
+    width: 150px;
+    height: 35px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border-radius: 16px;
+    background-color: green;
+    color: white;
+    justify-content: center;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+.para0008 {
+    padding-left: 25px;
+}
+
+
+/* CARD START */
+
+.maincardtop {
+    display: flex;
+    padding-top: 25px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px 20px;
+}
+
+.card0001 {
+    border: 1px solid blue;
+    border-radius: 7px;
+    width: 350px;
+    height: 290px;
+    color: black;
+    background-color: white;
+}
+
+.cardIMG {
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+.para0001 {
+    margin-left: 10px;
+    padding-top: 10px;
+    font-size: 13px;
+    color: red;
+}
+
+.para0002 {
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.para0003 {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.para0030 {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.para0040 {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.para0400 {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.para0004 {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+
+/* FOOTER WORK START */
+
+.card00000 {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    padding-left: 45px;
+}
+
+.card1111 {
+    border: none;
+    width: 300px;
+    height: 350px;
+}
+
+.img111 {
+    width: 150px;
+    height: 100px;
+}
+
+.para111 {
+    color: silver;
+}
+
+.span111 {
+    display: flex;
+}
+
+.anker111 {
+    background-color: black;
+    color: silver;
+    border: blue;
+    width: 160px;
+}
+
+.anker111 a {
+    color: silver;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.anker222 {
+    background-color: black;
+    color: silver;
+    border: blue;
+    width: 160px;
+}
+
+.anker222 a {
+    color: silver;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+
+/* SECOND CARD START */
+
+.card2222 {
+    border: none;
+    width: 300px;
+    height: 350px;
+}
+
+.para333 {
+    color: white;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.para1100 {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.anker333 {
+    border: none;
+    color: silver;
+    text-decoration: none;
+    background-color: black;
+    margin-top: 10px;
+}
+
+.anker444 {
+    border: none;
+    color: silver;
+    text-decoration: none;
+    background-color: black;
+}
+
+
+
+.anker555 {
+    border: none;
+    color: silver;
+    text-decoration: none;
+    background-color: black;
+    margin-top: 10px;
+}
+
+.anker666 {
+    border: none;
+    color: silver;
+    text-decoration: none;
+    background-color: black;
+    margin-top: 10px;
+}
+
+.anker777 {
+    border: none;
+    color: silver;
+    text-decoration: none;
+    background-color: black;
+    margin-top: 10px;
+}
+
+
+/* THIRD CARD START */
+
+.card3333 {
+    border: none;
+    width: 300px;
+    height: 350px;
+    padding-left: 10px;
+}
+
+.para444 {
+    color: white;
+    font-size: 20px;
+}
+
+.anker888 {
+    text-decoration: none;
+    color: silver;
+}
+
+.para2200 {
+    padding-top: 10px;
+    color: silver;
+}
+
+
+/* FOURTH CARD START */
+
+.card4444 {
+    border: none;
+    width: 300px;
+    height: 350px;
+}
+
+.para555 {
+    color: white;
+    font-size: 20px;
+    padding-left: 55px;
+}
+
+.ol111 li {
+    display: inline-block;
+    padding-left: 5px;
+    padding: 10px;
+}
+
+.img9911 {
+    background-color: none;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.img9922 {
+    border: none;
+    border-radius: 20px;
+}
+
+.img9933 {
+    background-color: none;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.div2345 {
+    padding-left: 40px;
+}
+
+.para2002 {
+    border: 1px solid blue;
+    border-color: white;
+    margin-left: 60px;
+    width: 120px;
+    height: 40px;
+    background-color: black;
+}
+
+.span1002 {
+    color: silver;
+    padding-left: 10px;
+}
+
+.span22011 {
+    font-size: 10px;
+}
+
+.span010 {
+    font-size: 10px;
+}
+
+.span2213 {
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.span2214 {
+    padding-left: 25px;
+    padding-top: 7px;
+}
+
+
+/* CARD COMPLETE */
+
+.hr1 {
+    color: silver;
+}
+
+.div989 {
+    color: silver;
+    display: flex;
+    column-gap: 770px;
+}
+

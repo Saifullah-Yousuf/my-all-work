@@ -1,0 +1,72 @@
+.main {
+    border: 2px solid black;
+    width: 198px;
+    height: 280px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: blue;
+    margin-top: 130px;
+    margin-left: 550px;
+}
+
+.row01 {
+    padding-top: 20px;
+}
+
+.row1-inp {
+    border: 2px solid white;
+    border-radius: 15px;
+    background-color: #2388FF;
+    color: white;
+    text-align: right;
+    height: 25px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 170px;
+}
+
+.btn-box {
+    border: 2px solid white;
+    width: 40px;
+    height: 30px;
+    border-radius: 10px;
+    padding-top: 10px;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: inherit;
+}
+
+.btn-col1 {
+    background-color: #1D2953;
+    color: white;
+}
+
+.btn-col2 {
+    background-color: #FF435A;
+    color: white;
+}
+
+.btn-col3 {
+    background-color: #2388FF;
+    color: white;
+}
+
+.btn-col4 {
+    background-color: #FFC804;
+    color: white;
+}
+
+.btn-col5 {
+    background-color: #63DE77;
+    color: white;
+}
+
+.btns-col {
+    background-color: #F5F7FF;
+}
+
+.btns-cols {
+    background-color: #D8DDF0;
+}

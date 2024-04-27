@@ -1,0 +1,22 @@
+*{
+    /* background: lightblue; */
+    background-image: url("../IMAGIES/bg-image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ankertag{
+    text-decoration: none;
+    font-size: 30px;
+    text-align: center;
+}
+
+.paddingmain{
+    padding-top: 20px;
+}
+@media screen and (max-width:500px) {
+    .mobwidth{
+        text-align: center;
+    }
+}

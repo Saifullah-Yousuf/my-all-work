@@ -1,0 +1,85 @@
+*{
+    margin: none;
+    padding: none;
+}
+
+.main00{
+    background-color: silver;
+}
+
+h1{
+    border: 4px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: darkcyan;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 900;
+}
+.main{
+    border: 4px solid black;
+    border-radius: 30px;
+    width: auto;
+    height: 100vh;
+    padding-top: 69px;
+    background-image: url("https://png.pngtree.com/background/20210717/original/pngtree-dark-abstract-geometric-stories-lines-triangle-background-landing-vertical-app-decorative-picture-image_1437780.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: large;
+}
+
+input:hover{
+    background-color: black;
+    color: white;
+}
+
+.inpuut{
+    border-radius: 20px;
+    width: 90%;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+    padding: 10px;
+}
+
+.btn-1:hover, .btn-2:hover{
+    background-color: black;
+    color: white;
+}
+
+.btn-1,.btn-2{
+    border: 2px solid darkcyans;
+    border-radius: 20px;
+    width: 50%;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.edit-btn:hover, .delete-btn:hover{
+    background-color: white;
+    color: black;
+}
+
+.edit-btn, .delete-btn{
+    border: 2px solid darkcyan;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    width: 35%;
+    font-size: 30px;
+    font-weight: 600;
+    font-style: italic;
+    margin-top: 15px;
+}
+
+ol{
+    font-size: 30px;
+    font-weight: 600;
+    font-style: italic;
+    color: white;
+    overflow-wrap: break-word;
+}

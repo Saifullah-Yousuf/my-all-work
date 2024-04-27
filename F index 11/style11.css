@@ -1,0 +1,255 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    background-color: #633007;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: silver;
+}
+
+li {
+    display: inline;
+}
+
+.line1 {
+    margin: 25px;
+    font-size: 35px;
+    margin-right: 300px;
+}
+
+.line2 {
+    font-size: 22px;
+    margin-right: 20px;
+}
+
+.line3 {
+    font-size: 22px;
+    margin-right: 20px;
+}
+
+.line4 {
+    margin-right: 400px;
+    font-size: 22px;
+}
+
+.line5 {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 5px;
+    background: black;
+    color: silver;
+    font-size: 20px;
+}
+
+
+/* IMAGE START  */
+
+.main0 {
+    padding-left: 70px;
+    padding-top: 30px;
+    column-count: 3;
+    border: 2px solid white;
+}
+
+.main1 {
+    border: 4px solid black;
+    border-radius: 15px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    min-width: 250px;
+    max-width: 350px;
+    min-height: 300px;
+    max-height: 450px;
+}
+
+.img1 {
+    width: 100%;
+    height: 200px;
+}
+
+.order1 {
+    padding-left: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 80px;
+    border-left-width: 15px;
+    background-color: black;
+    color: white;
+}
+
+.chocolate {
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.indulge {
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.logo1 {
+    padding-left: 15px;
+    font-size: 35px;
+}
+
+.span1 {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.from1 {
+    font-size: 25px;
+    padding-left: 70px;
+}
+
+
+/* 0NE IMGAGE CLOSE */
+
+.main2 {
+    border: 4px solid black;
+    border-radius: 15px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    min-width: 250px;
+    max-width: 350px;
+    min-height: 300px;
+    max-height: 450px;
+}
+
+.img2 {
+    width: 100%;
+    height: 200px;
+}
+
+.order2 {
+    padding-left: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 80px;
+    border-left-width: 15px;
+    background-color: black;
+    color: white;
+}
+
+.cookies {
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.cookies22 {
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.logo2 {
+    padding-left: 15px;
+    font-size: 35px;
+}
+
+.span2 {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.from2 {
+    font-size: 25px;
+    padding-left: 70px;
+}
+
+
+/* SECOND IMAGE CLASE */
+
+.main3 {
+    border: 4px solid black;
+    border-radius: 15px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    min-width: 250px;
+    max-width: 350px;
+    min-height: 300px;
+    max-height: 450px;
+}
+
+.img3 {
+    width: 100%;
+    height: 200px;
+}
+
+.order3 {
+    padding-left: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 80px;
+    border-left-width: 15px;
+    background-color: black;
+    color: white;
+}
+
+.galaxy {
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.GalaxyOUR {
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.logo3 {
+    padding-left: 15px;
+    font-size: 35px;
+}
+
+.span3 {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.from3 {
+    font-size: 25px;
+    padding-left: 70px;
+}
+
+
+/* THIRD IMAGE CLOSE */
+
+
+/* FOOTER START */
+
+.main4 {
+    border: 3px solid black;
+    background-color: #633007;
+    color: silver;
+    padding-top: 20px;
+}
+
+.para1 {
+    padding-top: 20px;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+
+.para2 {
+    padding-top: 10px;
+    font-size: 20px;
+    margin-left: 360px;
+    margin-right: 360px;
+}
+
+ol {
+    padding-top: 20px;
+    text-align: center;
+    word-spacing: 25px;
+    font-size: 30px;
+}

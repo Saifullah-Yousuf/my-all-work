@@ -1,0 +1,157 @@
+.main1{
+    column-count: 4;
+}
+#div1{
+    border: 2px solid black;
+    max-height: 700px;
+    width: 305px;
+}
+.img1{
+    height: 170px;
+    width: 305px;
+}
+.rs1{
+    word-spacing: 5px;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 15px;
+}
+.span1{
+    word-spacing: 115px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.pro12{
+    font-size: medium;
+    font-family:  montserrat light;
+    font-weight: bold;
+    padding-left: 15px;
+}
+.Karachi1{
+    font-family:  montserrat light;
+    padding-left: 15px;
+}
+.week1{
+    font-family:  montserrat light;
+    font-size: small;
+    padding-left: 15px;
+}
+
+/* Second Image Start */
+
+#div2{
+    border: 2px solid black;
+    max-height: 700px;
+    width: 305px;
+}
+.img2{
+    height: 170px;
+    width: 305px;
+}
+.rs2{
+    word-spacing: 5px;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 15px;
+}
+.span2{
+    word-spacing: 115px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.pro12{
+    font-size: medium;
+    font-family:  montserrat light;
+    font-weight: bold;
+    padding-left: 15px;
+}
+.Karachi2{
+    font-family:  montserrat light;
+    padding-left: 15px;
+}
+.week2{
+    font-family:  montserrat light;
+    font-size: small;
+    padding-left: 15px;
+}
+
+/* Third Image Start */
+
+#div3{
+    border: 2px solid black;
+    max-height: 700px;
+    width: 305px;
+}
+.img3{
+    height: 170px;
+    width: 305px;
+}
+.rs3{
+    word-spacing: 5px;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 15px;
+}
+.span3{
+    word-spacing: 115px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.pro13{
+    font-size: medium;
+    font-family:  montserrat light;
+    font-weight: bold;
+    padding-left: 15px;
+}
+.Karachi3{
+    font-family:  montserrat light;
+    padding-left: 15px;
+}
+.week3{
+    font-family:  montserrat light;
+    font-size: small;
+    padding-left: 15px;
+}
+
+/* Four Image Start */
+
+#div4{
+    border: 2px solid black;
+    max-height: 700px;
+    width: 305px;
+}
+.img4{
+    height: 170px;
+    width: 305px;
+}
+.rs4{
+    word-spacing: 5px;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 15px;
+}
+.span4{
+    word-spacing: 115px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.pro14{
+    font-size: medium;
+    font-family:  montserrat light;
+    font-weight: bold;
+    padding-left: 15px;
+}
+.Karachi4{
+    font-family:  montserrat light;
+    padding-left: 15px;
+}
+.week4{
+    font-family:  montserrat light;
+    font-size: small;
+    padding-left: 15px;
+}
+
+a{
+    padding-left: 1250px;
+    text-decoration: none;
+}

@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+.saif02 {
+    border-collapse: collapse;
+    width: 400px;
+    margin: 40px auto;
+}
+
+table th {
+    background-color: #949f7c;
+    color: #fff;
+}
+
+.saif01 {
+    background-color: #dcdcdc;
+}
+
+.saif {
+    text-align: right;
+    font-weight: bold;
+}
+
+.center{
+    text-align: center;
+}

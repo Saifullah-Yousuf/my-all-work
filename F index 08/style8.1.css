@@ -1,0 +1,54 @@
+.saif {
+    text-align: right;
+}
+
+.gray {
+    background-color: gray;
+    color: white;
+}
+
+.profile1 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    min-height: 20vh;
+}
+
+.skills1 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 20vh;
+}
+
+.skills3,
+.skills4,
+.skills5 {
+    text-align: center;
+}
+
+.Technical1,
+.CSS1,
+.Javascript1 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Experience1 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    min-height: 20vh;
+}
+
+.apple1 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    min-height: 20vh;
+}

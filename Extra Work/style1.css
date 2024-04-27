@@ -1,0 +1,121 @@
+.topmain{
+    overflow-x: hidden;
+}
+
+.navbgcolor{
+    background-color: #333E48;
+}
+
+.boooder{
+    border: 2px solid #DEE2E6;
+    margin-top: 10px;
+}
+
+.booder{
+    border: 2px solid #DEE2E6;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+.fourimg1{
+    background-image: url("https://zunair-practice.web.app/images/CategoryImages/sub-banner-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.fourimg2{
+    background-image: url("https://zunair-practice.web.app/images/CategoryImages/sub-banner-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.fourimg3{
+    background-image: url("https://zunair-practice.web.app/images/CategoryImages/sub-banner-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.fourrowgap{
+    column-gap: 18px;
+}
+
+.fiveboder{
+    border: 2px solid #DEE2E6;
+}
+
+.fiveheadboder{
+    border: 2px solid #DEE2E6;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.sixbgimg1{
+    background-image: url("https://t4.ftcdn.net/jpg/04/49/27/09/360_F_449270967_GF17is5zGXIFD05rP6jBNYyko3NYzoeo.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.sixbgimg2{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwq05Bf4UO0MXyq9Uh-OWb5UKk_H68aY7o_A&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sevenbgimg{
+    background-image: url("https://img.freepik.com/free-photo/closeup-golden-usd-coins-dropping-dark-background-dollar-is-main-currency-exchange-payment-world-by-3d-render_616485-2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.nineboder{
+    border: 2px solid #DEE2E6;
+}
+
+.nineheading{
+    border: 2px solid #DEE2E6;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+
+.tenboder{
+    border: 2px solid #DEE2E6;
+}
+
+.tenheading{
+    border: 2px solid #DEE2E6;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.logosize{
+    font-size: 45px;
+    color: yellow;
+}
+.footerbutton1{
+    border: none;
+
+}
+
+
+.footerthreeanker{
+    font-size: 30px;
+}
+
+
+.footerthreeimg{
+}
+
