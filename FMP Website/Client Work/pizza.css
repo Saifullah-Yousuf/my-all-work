@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+._body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+.nav-img {
+    width: 180px;
+    height: 80px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.hed-para {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.piz-flv {
+    border: none;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.div-table {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid red;
+    width: 75%;
+}
+
+.div-row {
+    box-sizing: 10px;
+}
+
+.div-box {
+    border: 30px solid coral;
+    background-color: black;
+    color: teal;
+    border-radius: 10px;
+}
+
+.div-main {
+    display: flex;
+    justify-content: center;
+    row-gap: 20px;
+    column-gap: 20px;
+}
+
+.card-hed-para {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.div-card {
+    border: 2px solid;
+    box-shadow: 5px 5px 10px crimson;
+    border-radius: 70px;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    background: black;
+    color: teal;
+}
+
+.div-img {
+    border: 2px solid slategrey;
+    border-radius: 70px;
+    width: 100%;
+    height: 200px;
+}
+
+.span-para {
+    text-align: start;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.para {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}

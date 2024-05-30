@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+._body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+.nav-img {
+    width: 180px;
+    height: 80px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.hed-para {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.div-main {
+    display: flex;
+    justify-content: center;
+    row-gap: 20px;
+    column-gap: 20px;
+}
+
+.div-card {
+    border: 2px solid red;
+    border-radius: 50px;
+    background-color: black;
+    width: 100%;
+    height: 430px;
+    text-align: center;
+}
+
+.div-img {
+    border: 2px solid blueviolet;
+    border-radius: 80px;
+    box-shadow: 5px 5px 13px #888888;
+    width: 100%;
+    height: 200px;
+    margin-top: 15px;
+}
+
+.div-para-main {
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: silver;
+}
+
+.para {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}

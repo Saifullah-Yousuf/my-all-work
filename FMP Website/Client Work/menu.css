@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+._body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+.nav-img {
+    width: 180px;
+    height: 80px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.main{
+    text-align: center;
+    width: 100%;
+}
+
+.para {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}

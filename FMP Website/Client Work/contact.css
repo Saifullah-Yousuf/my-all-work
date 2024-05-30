@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+._body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+.nav-img {
+    width: 180px;
+    height: 80px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.main-contact {
+    border: 2px solid none;
+    width: 100%;
+    height: 120vh;
+    background-color: beige;
+    text-align: center;
+}
+
+.para {
+    font-size: 20px;
+}
+
+.Table {
+    border-radius: 40px;
+    box-shadow: 0 0 20px coral;
+    width: 100%;
+    height: 400px;
+}
+
+.Table-R {
+    text-align: center;
+}
+
+.para {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
